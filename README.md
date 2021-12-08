@@ -1,8 +1,8 @@
-# OpenGL Hello Triangle Demo using PVR_PSP2 Driver layer GPU libraries 
+# OpenGL Hello Texture Demo using PVR_PSP2 Driver layer GPU libraries 
 
-This is a openGL helo triangle program. It was made as a tech demo using [PVR\_PSP2 Driver layer GPU libraries](https://github.com/GrapheneCt/PVR_PSP2). 
+This is a openGL hello texture program. It was made as a tech demo using [PVR\_PSP2 Driver layer GPU libraries](https://github.com/GrapheneCt/PVR_PSP2). 
 
-The PVR\_PSP2 initialization and library handling was adapted from the work of [ZeroNinx](https://github.com/ZeroNinx/VitaTest). The hello triangle implements openGL Getting started/Hello Triangle tutorial from [LearnOpenGL](https://learnopengl.com/Getting-started/Hello-Triangle), PS Vita code was based on [SonicMastr's](https://github.com/SonicMastr/Pigs-In-A-Blanket/tree/master/samples/cube-egl-vitasdk) implementation. 
+The PVR\_PSP2 initialization and library handling was adapted from the work of [ZeroNinx](https://github.com/ZeroNinx/VitaTest). The hello texture implements openGL Getting started/Textures tutorial from [LearnOpenGL](https://learnopengl.com/Getting-started/Hello-Triangle), and has been adapted to work with openglES 2 and GLSL version 100. PS Vita code was based on [SonicMastr's](https://github.com/SonicMastr/Pigs-In-A-Blanket/tree/master/samples/cube-egl-vitasdk) implementation. 
 
 
 ## Features
