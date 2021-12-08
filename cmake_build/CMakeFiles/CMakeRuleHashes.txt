@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+cfe579aa04492c33643bfb7fbd6ae3fc CMakeFiles/Hello_texture-GLES2-PVR_PSP2.self
+e8519485354a0f0c1b7f74dfdc729c03 CMakeFiles/Hello_texture-GLES2-PVR_PSP2.vpk
+0c1b7ab6cc0d199a345c28f5f8276e9f Hello_texture-GLES2-PVR_PSP2.self.out
+1de955f4bccc3676f9cbfb9a609627e6 Hello_texture-GLES2-PVR_PSP2.velf
+c5bd9a56a5afea755db58e0086e16904 Hello_texture-GLES2-PVR_PSP2.vpk.out
+0dac5827965fc8c9da974d3179169839 Hello_texture-GLES2-PVR_PSP2.vpk_param.sfo

@@ -1,0 +1,5 @@
+/home/mrrobot/repos/Hello_texture-GLES2-PVR_PSP2/cmake_build/CMakeFiles/rebuild_cache.dir
+/home/mrrobot/repos/Hello_texture-GLES2-PVR_PSP2/cmake_build/CMakeFiles/edit_cache.dir
+/home/mrrobot/repos/Hello_texture-GLES2-PVR_PSP2/cmake_build/CMakeFiles/Hello_texture-GLES2-PVR_PSP2.vpk.dir
+/home/mrrobot/repos/Hello_texture-GLES2-PVR_PSP2/cmake_build/CMakeFiles/Hello_texture-GLES2-PVR_PSP2.self.dir
+/home/mrrobot/repos/Hello_texture-GLES2-PVR_PSP2/cmake_build/CMakeFiles/Hello_texture-GLES2-PVR_PSP2.dir
